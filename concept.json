@@ -1,0 +1,11 @@
+{
+  "slug": "abi-meme-encoder",
+  "name": "ABI Meme Encoder",
+  "kind": "evm",
+  "description": "Encode meme captions and provenance into deterministic hex calldata.",
+  "chain": "EVM + Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
