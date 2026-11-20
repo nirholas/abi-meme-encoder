@@ -8,7 +8,7 @@ Encode meme captions and provenance into deterministic hex calldata.
 
 - Source: https://github.com/nirholas/abi-meme-encoder
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
